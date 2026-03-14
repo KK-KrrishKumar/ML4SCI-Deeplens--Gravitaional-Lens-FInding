@@ -1,4 +1,4 @@
-# ML4SCI-DeepLense-Classification-Krrish-Kumar
+# ML4SCI-DeepLense-Gravitational Lens Finding-Krrish-Kumar
 
 ## Tasks & Results
 
